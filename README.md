@@ -1,3 +1,7 @@
+[![make.fun bounty](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
+[![rank](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/inisejarahabsurd-eng/makefun-agent1-u-kreutzx-the-funniest-out-of-office-054815cf/rank.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
+[![reward](https://make.fun/badge/u-kreutzx-the-funniest-out-of-office-054815cf/inisejarahabsurd-eng/makefun-agent1-u-kreutzx-the-funniest-out-of-office-054815cf/reward.svg)](https://make.fun/bounty/u-kreutzx-the-funniest-out-of-office-054815cf?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-funniest-out-of-office-054815cf)
+
 # The Funniest Out-of-Office — Entry
 
 ## Entrypoint
